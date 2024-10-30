@@ -1,0 +1,102 @@
+.widget-bukazu-search {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: column;
+}
+.widget-bukazu-search h3 {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  width: 100%;
+}
+.bukazu_search_form {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+.bukazu_search_form.row {
+  flex-direction: row;
+}
+.bukazu_search_form.column {
+  flex-direction: column;
+}
+.column .bukazu_search_form_field {
+  width: 100%;
+  min-width: 100%;
+  flex-direction: column;
+}
+.bukazu_search_form_field {
+  width: 20%;
+  padding: 16px !important;
+}
+.bukazu_search_form_field.wider {
+  width: 30%;
+}
+.bukazu_search_form_field label {
+  width: 100%;
+  clear: both;
+  font-size: 1rem;
+  line-height: 1.75;
+  display: block;
+  text-align: left;
+}
+
+input[type="submit"] {
+  padding: 16px;
+  width: 100%;
+}
+
+/* .bukazu_search_form_field {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  padding: 4px 0;
+} */
+.bukazu_search_form_field input,
+.bukazu_search_form_field select {
+  width: 100%;
+  clear: both;
+  display: block;
+  border: 1px solid #3a3a3a;
+  padding: 1.25em 1.25em 0 0;
+  appearance: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  padding: 0.6em 2em 0.8em 1em;
+  height: 3em;
+  font-size: 20px;
+  font-size: 1.25rem;
+}
+
+.bukazu_search_form_field input.date-field {
+  /* background-image: url("../img/calendar.svg") !important; */
+  background-repeat: no-repeat !important;
+  background-position: center right 10px !important;
+}
+.date-picker-wrapper {
+  background-color: #fff !important;
+}
+.daterangepicker .calendar-table th,
+.daterangepicker .calendar-table td {
+  padding: 0;
+}
+@media (max-width: 767px) {
+  .bukazu_search_form.row {
+    flex-direction: column;
+  }
+  .bukazu_search_form_field {
+    width: 100%;
+  }
+  .bukazu_search_form_field.wider {
+    width: 100%;
+  }
+}

@@ -1,0 +1,167 @@
+# Translation of Plugins - BUKAZU Search widget - Development (trunk) in German
+# This file is distributed under the same license as the Plugins - BUKAZU Search widget - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-13 13:07+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.2.4\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - BUKAZU Search widget - Development (trunk)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: block/block.js:198
+msgid "Write a brief bio..."
+msgstr ""
+
+#: block/block.js:188
+msgid "Subtitle"
+msgstr ""
+
+#: block/block.js:164
+msgid "Upload Image"
+msgstr ""
+
+#: block/block.js:129
+msgid "Portal Code"
+msgstr ""
+
+#: block/block.js:120
+msgid "LinkedIn URL"
+msgstr ""
+
+#: block/block.js:111
+msgid "Instagram URL"
+msgstr ""
+
+#: block/block.js:102
+msgid "Twitter URL"
+msgstr ""
+
+#: block/block.js:93
+msgid "Facebook URL"
+msgstr ""
+
+#: block/block.js:88
+msgid "Add links to your social media profiles."
+msgstr ""
+
+#: block/block.js:81
+msgid "Social Media Links"
+msgstr ""
+
+#: block/block.js:14
+msgid "A custom block for displaying bukazu calendars and search page."
+msgstr ""
+
+#: block/block.js:13
+msgid "Bukazu-Portal"
+msgstr ""
+
+#: bukazu-widget.php:88
+msgid "Italian"
+msgstr ""
+
+#: bukazu-widget.php:87
+msgid "Spanish"
+msgstr ""
+
+#: bukazu-widget.php:86
+msgid "French"
+msgstr ""
+
+#: bukazu-widget.php:85
+msgid "English"
+msgstr ""
+
+#: bukazu-widget.php:84
+msgid "German"
+msgstr "Deutsch"
+
+#: bukazu-widget.php:83
+msgid "Dutch"
+msgstr ""
+
+#: bukazu-widget.php:77 bukazu-widget.php:82
+msgid "Locale"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://bukazu.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Bob van Oorschot"
+msgstr ""
+
+#. Description of the plugin
+msgid "Create a quick search field to the seach page"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://bukazu.com"
+msgstr ""
+
+#. Plugin Name of the plugin
+msgid "Bukazu Search Widget"
+msgstr ""
+
+#: bukazu-widget.php:173
+msgid "Zoeken"
+msgstr "Suchen"
+
+#: bukazu-widget.php:156
+msgid "Personen"
+msgstr "Personen"
+
+#: bukazu-widget.php:152
+msgid "Uitcheck datum"
+msgstr ""
+
+#: bukazu-widget.php:151
+msgid "Uitchecken"
+msgstr ""
+
+#: bukazu-widget.php:147
+msgid "Incheck datum"
+msgstr ""
+
+#: bukazu-widget.php:146
+msgid "Inchecken"
+msgstr ""
+
+#: bukazu-widget.php:142
+msgid "Selecteer aankomst en vertrek"
+msgstr ""
+
+#: bukazu-widget.php:141
+msgid "Datum"
+msgstr "Datum"
+
+#: bukazu-widget.php:67
+msgid "Column"
+msgstr ""
+
+#: bukazu-widget.php:66
+msgid "Row"
+msgstr ""
+
+#: bukazu-widget.php:60 bukazu-widget.php:65
+msgid "View style"
+msgstr ""
+
+#: bukazu-widget.php:53
+msgid "Search Url:"
+msgstr ""
+
+#: bukazu-widget.php:46
+msgid "Widget Title"
+msgstr ""
+
+#: bukazu-widget.php:20
+msgid "Bukazu Search"
+msgstr ""
